@@ -2,7 +2,7 @@
 
 ---
 
-I am a dedicated MERN stack developer passionate about building impactful full-stack applications. With hands-on experience in web development and software engineering, I focus on creating seamless user experiences and robust backend systems. DI’m deepening my knowledge of React while refining my Node.js expertise. Alongside my development work, I enjoy solving Data Structures and Algorithms (DSA) problems in Java, always striving to enhance my problem-solving skills and drive continuous innovation.
+I am a dedicated MERN stack developer passionate about building impactful full-stack applications. With hands-on experience in web development and software engineering, I focus on creating seamless user experiences and robust backend systems. I’m deepening my knowledge of React while refining my Node.js expertise. Alongside my development work, I enjoy solving Data Structures and Algorithms (DSA) problems in Java, always striving to enhance my problem-solving skills and drive continuous innovation.
 
 ```When I'm not coding, I'm solving algorithms or diving into new tech stacks.```
 
