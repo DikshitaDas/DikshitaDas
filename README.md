@@ -53,7 +53,7 @@ I am a dedicated MERN stack developer passionate about building impactful full-s
 ### Reach Me
 
 <p>
-  <a href="www.linkedin.com/in/dikshita-das-3bb414203" target="_blank">
+  <a href="https://in.linkedin.com/in/dikshita-das-3bb414203" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
