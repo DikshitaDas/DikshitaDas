@@ -57,7 +57,14 @@ I am a dedicated MERN stack developer passionate about building impactful full-s
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-<br> <br>
+<br> <be>
+
+<h2>🐍 Contribution Snake</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 [![](https://visitcount.itsvg.in/api?id=DikshitaDas&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
