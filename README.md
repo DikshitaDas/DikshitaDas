@@ -1,4 +1,4 @@
-## Hi there 👋 I am Dikshita Das
+## Hi there 👋 I am Dikshita Das 
 
 --- 
 
